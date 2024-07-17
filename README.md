@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrafisyahbani77&label=Profile%20views&color=0e75b6&style=plastic" alt="mrafisyahbani77" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrafisyahbani77" alt="mrafisyahbani77" /></a> </p>
-
 - 🌱 I’m currently learning **React,JavaScript,NextJs**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rafi-eight.vercel.app/](https://portfolio-rafi-eight.vercel.app/)
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-rafi-syahbani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-rafi-syahbani/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-rafi-syahbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-rafi-syahbani" height="30" width="40" /></a>
 <a href="https://instagram.com/rafyxz77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafyxz77" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/www.youtube.com/@rafiofficial958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@rafiofficial958" height="30" width="40" /></a>
 </p>
