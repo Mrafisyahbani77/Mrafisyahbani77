@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrafisyahbani77&label=Profile%20views&color=0e75b6&style=plastic" alt="mrafisyahbani77" /> </p>
 
-- 🌱 I’m currently learning **Flutter,React,JavaScript**
+- 🌱 I’m currently learning **React,JavaScript,NextJs**
 
 - 👨‍💻 All of my projects are available at https://portfolio-rafi-eight.vercel.app/
 
