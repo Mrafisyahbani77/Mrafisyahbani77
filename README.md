@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter,React,JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://rafiportfolio.pages.dev](https://rafiportfolio.pages.dev)
+- 👨‍💻 All of my projects are available at https://portfolio-rafi-eight.vercel.app/
 
 - 💬 Ask me about **react**
 
