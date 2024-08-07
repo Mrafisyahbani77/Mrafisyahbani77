@@ -16,7 +16,7 @@
 
 📫How to reach me **mrafi.syahbani@gmail.com**
 
-⚡ Fun fact **I often play badminton and like exercising and running in the morning**
+⚡ Fun fact **I often play badminton and like exercising and running **
 
  </div>
  
