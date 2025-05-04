@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/muhammad-rafi-syahbani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://portfolio-rafi-eight.vercel.app/" target="_blank">
+  <a href="https://mrafisyahbani-portofolio-new.pages.dev" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -38,7 +38,12 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,vuejs" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,vuejs,materialui,angular" /><br>
+</div>
+
+<div align="center">
+    <!-- Shadcn UI doesn't have an icon on skillicons.dev, so using a custom badge -->
+    <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 </div>
 
 <br/>
