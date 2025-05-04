@@ -9,30 +9,30 @@
 <br/>
 
 <div align="center">
-
-🌱 I’m currently learning **VueJs, JavaScript, TypeScript**
-
-💬 Ask me about **Next.js, React or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-📫How to reach me **mrafi.syahbani@gmail.com**
-
-⚡ Fun fact **I often play badminton and like exercising**
-
- </div>
+ 
+ 🌱 I'm currently learning **VueJs, JavaScript, TypeScript**
+ 
+ 💬 Ask me about **Next.js, React or anything [here](https://github.com/Mrafisyahbani77/Mrafisyahbani77/issues)**
+ 
+ 📫 How to reach me **mrafi.syahbani@gmail.com**
+ 
+ ⚡ Fun fact **I often play badminton and like exercising**
+ 
+</div>
  
 <div align="center"> 
   <a href="mailto:mrafi.syahbani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/muhammad-rafi-syahbani" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-rafi-syahbani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://portfolio-rafi-eight.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -57,11 +57,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mrafisyahbani77&theme=react&border_radius=10" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Mrafisyahbani77&theme=react&border_radius=10" alt="GitHub Streak" />
+  </a>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Mrafisyahbani77&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrafisyahbani77&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-
-
