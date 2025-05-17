@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I'm currently learning **VueJs, JavaScript, TypeScript**
+ 🌱 I'm currently learning **Angular, VueJs, TypeScript**
  
  💬 Ask me about **Next.js, React or anything [here](https://github.com/Mrafisyahbani77/Mrafisyahbani77/issues)**
  
