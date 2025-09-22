@@ -14,7 +14,7 @@
  
  💬 Ask me about **Next.js, React or anything [here](https://github.com/Mrafisyahbani77/Mrafisyahbani77/issues)**
  
- 📫 How to reach me **mrafi.syahbani@gmail.com**
+ 📫 How to reach me **muhammadrafisyahbani24@gmail.com**
  
  ⚡ Fun fact **I often play badminton and like exercising**
  
