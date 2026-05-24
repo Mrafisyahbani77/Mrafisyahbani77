@@ -20,34 +20,43 @@
  
 </div>
  
-<div align="center"> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-rafi-syahbani">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:muhammadrafisyahbani24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-rafi-syahbani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://mrafisyahbani-portofolio-new.pages.dev">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://mrafisyahbani-portofolio-new.pages.dev" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
+</p>
 
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,vuejs,materialui,angular" /><br>
-</div>
+---
 
-<div align="center">
-    <!-- Shadcn UI doesn't have an icon on skillicons.dev, so using a custom badge -->
-    <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-</div>
+## About Me
 
-<br/>
-<hr/>
+- Front-End Developer with focus on clean UI and responsive design
+- Experienced with modern React ecosystem and component-based architecture
+- Currently exploring Angular, Vue, and advanced TypeScript patterns
+- Interested in performance optimization, scalability, and UI consistency
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,vue,angular,html,css,github,vscode" />
+</p>
+
+---
+
+## Current Focus
+
+- Building scalable web applications with Next.js
+- Improving code architecture and maintainability
+- Learning better security practices and performance optimization
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
