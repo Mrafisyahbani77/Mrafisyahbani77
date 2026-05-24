@@ -16,8 +16,6 @@
   </a>
 </p>
 
----
-
 ## About Me
 
 - Front-End Developer with focus on clean UI and responsive design
@@ -25,15 +23,12 @@
 - Currently exploring Angular, Vue, and advanced TypeScript patterns
 - Interested in performance optimization, scalability, and UI consistency
 
----
-
 ## Tech Stack & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,vue,angular,html,css,github,vscode,docker,azure" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,vue,angular,html,css,github,vscode,docker,azuredevops,shadcn,materialui" />
 </p>
 
----
 
 ## Current Focus
 
@@ -41,4 +36,3 @@
 - Improving code architecture and maintainability
 - Learning better security practices and performance optimization
 
----
