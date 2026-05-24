@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-rafi-syahbani">
+  <a href="https://www.linkedin.com/in/muhammadrafisyahbani">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:muhammadrafisyahbani24@gmail.com">
@@ -27,10 +27,10 @@
 
 ---
 
-## Tech Stack
+## Tech Stack & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,vue,angular,html,css,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,vue,angular,html,css,github,vscode,docker,azure" />
 </p>
 
 ---
