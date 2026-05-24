@@ -23,12 +23,26 @@
 - Currently exploring Angular, Vue, and advanced TypeScript patterns
 - Interested in performance optimization, scalability, and UI consistency
 
-## Tech Stack & Tools
+## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,vue,angular,html,css,github,vscode,docker,azuredevops,shadcn,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,vue,angular,html,css" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/shadcn/ui-111111?style=flat&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white" />
+</p>
+
+## Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode,docker" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" />
+</p>
 
 ## Current Focus
 
