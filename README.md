@@ -38,11 +38,9 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode,docker" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="48" height="48" />  
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" />
-</p>
 
 ## Current Focus
 
