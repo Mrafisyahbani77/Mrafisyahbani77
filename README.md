@@ -16,7 +16,6 @@
   </a>
 </p>
 
----
 
 ## About Me
 
@@ -25,19 +24,16 @@
 - Currently exploring Angular, Vue, and advanced TypeScript patterns
 - Interested in performance optimization, scalability, and UI consistency
 
----
 
 ## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,vue,angular,html,css" />
-</p>
-
-<p align="left">
-  <img 
+   <img 
     src="https://cdn.simpleicons.org/shadcnui/ffffff" 
     alt="shadcn/ui" 
     width="48" 
+    left="5"
     height="48"
   />
   
@@ -49,7 +45,10 @@
   />
 </p>
 
----
+<p align="left">
+ 
+</p>
+
 
 ## Tools
 
@@ -64,7 +63,6 @@
   />
 </p>
 
----
 
 ## Current Focus
 
