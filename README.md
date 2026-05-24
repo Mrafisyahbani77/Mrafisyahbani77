@@ -30,7 +30,7 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,vue,angular,html,css,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,vue,angular,html,css,github,vscode,docker" />
 </p>
 
 ---
