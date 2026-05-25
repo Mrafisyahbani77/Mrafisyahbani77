@@ -1,6 +1,6 @@
-<h1 align="center">Muhammad Rafi Syahbani</h1>
+<h1>Muhammad Rafi Syahbani</h1>
 
-<p align="center">
+<p>
   Front-End Developer focused on building modern, responsive, and scalable web applications.
 </p>
 
