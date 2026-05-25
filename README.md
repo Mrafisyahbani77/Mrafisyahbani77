@@ -4,7 +4,7 @@
   Front-End Developer focused on building modern, responsive, and scalable web applications.
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/muhammadrafisyahbani">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
