@@ -1,10 +1,5 @@
 # <img src="./profile-banner.svg" alt="Muhammad Rafi Syahbani" width="100%" />
 
-<h1 align="center">Muhammad Rafi Syahbani</h1>
-<p align="center">
-  👨‍💻 Front-End Developer focused on building modern, responsive, and scalable web applications.
-</p>
-
 <p align="center">
   <a href="https://mrafisyahbani-portofolio-new.pages.dev"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-111111?style=flat-square" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/muhammadrafisyahbani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
