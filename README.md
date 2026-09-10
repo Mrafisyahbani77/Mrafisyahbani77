@@ -33,18 +33,3 @@
 ## Current Focus
 
 Building scalable web applications with Next.js, improving code architecture and maintainability, and learning better security practices and performance optimization.
-
-## GitHub Statistics
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <!-- Ganti "YOUR_GITHUB_USERNAME" dengan username GitHub Anda -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub contribution streak" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <!-- Ganti "YOUR_GITHUB_USERNAME" dengan username GitHub Anda -->
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" width="100%" />
-    </td>
-  </tr>
-</table>
