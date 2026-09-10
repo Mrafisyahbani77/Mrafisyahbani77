@@ -1,4 +1,4 @@
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Muhammad%20Rafi%20Syahbani&fontSize=50&fontAlignY=35&desc=Front-End%20Developer&descAlignY=55" alt="Muhammad Rafi Syahbani banner" width="100%" />
+# <img src="./profile-banner.svg" alt="Muhammad Rafi Syahbani" width="100%" />
 
 <h1 align="center">Muhammad Rafi Syahbani</h1>
 <p align="center">
